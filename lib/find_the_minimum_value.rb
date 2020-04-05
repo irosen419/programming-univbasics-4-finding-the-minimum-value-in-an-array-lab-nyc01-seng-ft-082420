@@ -3,3 +3,6 @@
 #   array[0]
 # end
 
+def find_min_value(array)
+  
+end
