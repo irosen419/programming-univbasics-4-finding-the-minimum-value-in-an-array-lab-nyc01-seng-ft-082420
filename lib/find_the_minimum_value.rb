@@ -4,7 +4,7 @@
 # end
 
 def find_min_value(array)
-  counter = 0 
+  counter = 0
   
   
   
